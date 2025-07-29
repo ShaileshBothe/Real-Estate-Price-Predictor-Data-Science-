@@ -156,10 +156,4 @@ Open `client/app.html` in your web browser. (No build step required.)
 
 ---
 
-## 📬 Contact
-For questions, suggestions, or contributions, please open an issue or contact the author.
 
----
-
-## 📝 License
-*Add your license here if applicable.*
